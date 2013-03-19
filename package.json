@@ -1,6 +1,6 @@
 {
   "name": "xml2jade",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "xml to jade converter",
   "main": "index.js",
   "scripts": {

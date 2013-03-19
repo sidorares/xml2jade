@@ -25,7 +25,7 @@ function serialiseAttributes(attr) {
 }
 
 parser.on('opentag', function (node) {
-  if (state == 'text' || state == 'attributes')
+  if (state == 'text' || state == 'attributes' || state == 'opentag')
       out.write('\n');
   out.write(indent);
   out.write(node.name);
