@@ -18,6 +18,7 @@
   "author": "Andrey Sidorov <sidorares@yandex.ru>",
   "license": "MIT",
   "dependencies": {
-    "diamond": "0.0.2"
+    "diamond": "0.0.2",
+    "sax": "0.5.5"
   }
 }
