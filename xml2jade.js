@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var sax = require('sax');
-var diamond = require('diamond');
+var diamond = require('diamond-operator');
 
 var indent = '';
 var tab = '  ';
