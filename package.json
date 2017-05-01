@@ -19,6 +19,6 @@
   "license": "MIT",
   "dependencies": {
     "diamond-operator": "1.0.0",
-    "sax": "0.5.5"
+    "sax": "1.2.2"
   }
 }
